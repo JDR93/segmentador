@@ -3,7 +3,6 @@ import "./globals.css";
 //  import 'animate.css';
 import { Source_Sans_3 } from "next/font/google";
 import { FilterProvider } from "@/providers/FilterProvider";
-import { AuthenticateProvider } from "@/providers/AuthenticateProvider";
 import QueryProvider from "@/providers/QueryProvider";
 import { LoginProvider } from "@/contexts/loginContext";
 
@@ -26,9 +25,7 @@ export default async function RootLayout({
       <body className={`${sourceSans3.className} antialiased`}>
       <LoginProvider>
         <QueryProvider>
-          <AuthenticateProvider>
             <FilterProvider>{children}</FilterProvider>
-          </AuthenticateProvider>
         </QueryProvider>
         </LoginProvider>
       </body>
