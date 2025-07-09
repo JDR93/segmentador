@@ -1,0 +1,40 @@
+{
+  "name": "project-segmentador-pruebas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 5790",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroui/react": "^2.8.0-beta.4",
+    "@tanstack/react-query": "^5.77.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.9.0",
+    "cookie-store": "^4.0.0-next.4",
+    "cookies-next": "^5.1.0",
+    "framer-motion": "^12.11.4",
+    "js-cookie": "^3.0.5",
+    "next": "15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.0.0",
+    "react-select": "^5.10.1",
+    "scheduler": "^0.26.0",
+    "use-context-selector": "^2.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.1.6",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6",
+    "typescript": "^5"
+  }
+}

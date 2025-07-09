@@ -1,0 +1,1095 @@
+[
+  {
+    "cod_facultad": "AD",
+    "nombre_facultad": "ADMINISTRACIÓN",
+    "programas": [
+      {
+        "cod_programa": "ADMI",
+        "nombre_programa": "ADMINISTRACIÓN DE EMPRESAS",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-MAGF",
+        "nombre_programa": "MAESTRÍA EN ANALÍTICA Y GESTIÓN FINANCIERA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MIMC",
+        "nombre_programa": "MAESTRÍA EN GERENCIA INTERNACIONAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MGTD",
+        "nombre_programa": "MAESTRÍA EN GESTION TRANSFORMACIÓN DIGITAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-RDSV",
+        "nombre_programa": "MAESTRÍA EN REGENERACIÓN Y DESARROLLO SOSTENIBLE",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MIAD",
+        "nombre_programa": "MAESTRÍA EN INVESTIGACIÓN EN ADMINISTRACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-EMBA",
+        "nombre_programa": "MAESTRÍA EN ADMINISTRACIÓN (EJECUTIVO - EMBA)",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MATP",
+        "nombre_programa": "MAESTRÍA EN ADMINISTRACIÓN TIEMPO PARCIAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MMBA",
+        "nombre_programa": "MAESTRÍA EN ADMINISTRACION",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MBAV",
+        "nombre_programa": "MAESTRÍA EN ADMINISTRACION",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MBAE",
+        "nombre_programa": "MAESTRÍA EN ADMINISTRACIÓN PARA EJECUTIVOS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-FINZ",
+        "nombre_programa": "MAESTRÍA EN FINANZAS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-GAMB",
+        "nombre_programa": "MAESTRÍA EN GERENCIA AMBIENTAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MERC",
+        "nombre_programa": "MAESTRÍA EN MERCADEO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MGPD",
+        "nombre_programa": "MAESTRÍA EN GERENCIA Y PRÁCTICA DEL DESARROLLO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-GEST",
+        "nombre_programa": "MAESTRÍA GERENCIA ESTRATÉGICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-GSUM",
+        "nombre_programa": "MAESTRÍA EN GESTIÓN DE LA CADENA DE SUMINISTRO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IFIN",
+        "nombre_programa": "MAESTRÍA INTERCIONAL EN FINANZAS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-AFIN",
+        "nombre_programa": "ESPECIALIZACIÓN EN ADMINISTRACION FINANCIERA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GRIE",
+        "nombre_programa": "ESPECIALIZACIÓN EN GESTIÓN DE RIESGO Y CONTROL DE INSTITUCIONES FINANCIERAS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GABA",
+        "nombre_programa": "ESPECIALIZACIÓN EN GERENCIA DE ABASTECIMIENTO ESTRATEGICO",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-IMER",
+        "nombre_programa": "ESPECIALIZACIÓN INTELIGENCIA DE MERCADOS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-ENEG",
+        "nombre_programa": "ESPECIALIZACIÓN EN NEGOCIACION",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "D-ADMI",
+        "nombre_programa": "DOCTORADO EN ADMINISTRACIÓN",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "AQ",
+    "nombre_facultad": "ARQUITECTURA Y DISEÑO",
+    "programas": [
+      {
+        "cod_programa": "ARQU",
+        "nombre_programa": "ARQUITECTURA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "DISO",
+        "nombre_programa": "DISEÑO",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-GPAV",
+        "nombre_programa": "MAESTRÍA EN GESTIÓN ESTRATÉGICA DE PROYECTOS DE ARQUITECTURA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MGPA",
+        "nombre_programa": "MAESTRÍA EN GESTIÓN ESTRATÉGICA DE PROYECTOS DE ARQUITECTURA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ARQU",
+        "nombre_programa": "MAESTRÍA EN ARQUITECTURA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MART",
+        "nombre_programa": "MAESTRÍA EN ARQUITECTURA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DISE",
+        "nombre_programa": "MAESTRÍA EN DISEÑO",
+        "nivel_academico": "Maestría"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "AT",
+    "nombre_facultad": "ARTES Y HUMANIDADES",
+    "programas": [
+      {
+        "cod_programa": "ARTE",
+        "nombre_programa": "ARTE",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "HART",
+        "nombre_programa": "HISTORIA DEL ARTE",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "NADI",
+        "nombre_programa": "NARRATIVAS DIGITALES",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LITE",
+        "nombre_programa": "LITERATURA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "MUSI",
+        "nombre_programa": "MÚSICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-ARPL",
+        "nombre_programa": "MAESTRÍA EN ARTES PLÁSTICAS, ELECTRÓNICAS Y DEL TIEMPO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MPCU",
+        "nombre_programa": "MAESTRÍA EN PATRIMONIO CULTURAL MUEBLE",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MHAR",
+        "nombre_programa": "MAESTRÍA EN HISTORIA DEL ARTE",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PATC",
+        "nombre_programa": "MAESTRÍA PATRIMONIO CULTURAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PERI",
+        "nombre_programa": "MAESTRÍA EN PERIODISMO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-LITE",
+        "nombre_programa": "MAESTRÍA EN LITERATURA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MUSI",
+        "nombre_programa": "MAESTRÍA EN MUSICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-HDIG",
+        "nombre_programa": "MAESTRÍA HUMANIDADES DIGITALES",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MCLA",
+        "nombre_programa": "MAESTRÍA EN ESTUDIOS CLÁSICOS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "D-LITE",
+        "nombre_programa": "DOCTORADO EN LITERATURA",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "CI",
+    "nombre_facultad": "CIENCIAS",
+    "programas": [
+      {
+        "cod_programa": "BIOL",
+        "nombre_programa": "BIOLOGÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "FISI",
+        "nombre_programa": "FÍSICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "GEOC",
+        "nombre_programa": "GEOCIENCIAS",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "MATE",
+        "nombre_programa": "MATEMÁTICAS",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "MICR",
+        "nombre_programa": "MICROBIOLOGÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "QUIM",
+        "nombre_programa": "QUÍMICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-BCOM",
+        "nombre_programa": "MAESTRÍA EN BIOLOGÍA COMPUTACIONAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MABI",
+        "nombre_programa": "MAESTRÍA EN CIENCIAS BIOLÓGICAS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MMIC",
+        "nombre_programa": "MAESTRÍA EN CIENCIAS BIOLÓGICAS ÉNFASIS: MICROBIOLOGÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-CFIS",
+        "nombre_programa": "MAESTRÍA EN CIENCIAS-FISICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MATE",
+        "nombre_programa": "MAESTRÍA EN MATEMÁTICAS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-QUIM",
+        "nombre_programa": "MAESTRÍA EN QUÍMICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "D-CBIO",
+        "nombre_programa": "DOCTORADO EN CIENCIAS BIOLOGÍA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-FISI",
+        "nombre_programa": "DOCTORADO EN CIENCIAS FÍSICA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-MATE",
+        "nombre_programa": "DOCTORADO EN MATEMÁTICAS",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-CQUI",
+        "nombre_programa": "DOCTORADO EN CIENCIAS QUÍMICA",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "HU",
+    "nombre_facultad": "CIENCIAS SOCIALES",
+    "programas": [
+      {
+        "cod_programa": "ANTR",
+        "nombre_programa": "ANTROPOLOGÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "CPOL",
+        "nombre_programa": "CIENCIA POLÍTICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "GLOB",
+        "nombre_programa": "ESTUDIOS GLOBALES",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "FILO",
+        "nombre_programa": "FILOSOFÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "HIST",
+        "nombre_programa": "HISTORIA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LCUL",
+        "nombre_programa": "LENGUAS Y CULTURA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "PSIC",
+        "nombre_programa": "PSICOLOGÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-ANTR",
+        "nombre_programa": "MAESTRÍA EN ANTROPOLOGÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-EINT",
+        "nombre_programa": "MAESTRÍA EN ESTUDIOS INTERNACIONALES",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PURB",
+        "nombre_programa": "MAESTRÍA EN PLANIFICACIÓN URBANA Y REGIONAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PURS",
+        "nombre_programa": "MAESTRÍA EN PLANIFICACIÓN URBANA Y REGIONAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PURV",
+        "nombre_programa": "MAESTRÍA EN PLANIFICACIÓN URBANA Y REGIONAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-EDES",
+        "nombre_programa": "MAESTRÍA EN ESTUDIOS INTERDISCIPLINARIOS SOBRE DESARROLLO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-GENE",
+        "nombre_programa": "MAESTRÍA EN GÉNERO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-GENR",
+        "nombre_programa": "MAESTRÍA EN GÉNERO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ESUS",
+        "nombre_programa": "MAESTRÍA EN ESTUDIOS SOBRE SUSTENTABILIDAD",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MPAZ",
+        "nombre_programa": "MAESTRÍA EN CONSTRUCCIÓN DE PAZ",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-CPOL",
+        "nombre_programa": "MAESTRÍA EN CIENCIA POLÍTICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-FILO",
+        "nombre_programa": "MAESTRÍA EN FILOSOFÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-GEOG",
+        "nombre_programa": "MAESTRÍA EN GEOGRAFÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-HIST",
+        "nombre_programa": "MAESTRÍA EN HISTORIA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ECUL",
+        "nombre_programa": "MAESTRÍA EN ESTUDIOS CULTURALES",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-SOCI",
+        "nombre_programa": "MAESTRÍA EN SOCIOLOGÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PSCL",
+        "nombre_programa": "MAESTRÍA EN PSICOLOGÍA CLÍNICA Y DE LA SALUD",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PSIC",
+        "nombre_programa": "MAESTRÍA EN PSICOLOGÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-EPOL",
+        "nombre_programa": "ESPECIALIZACIÓN EN ESTADO, POLÍTICAS PÚBLICAS Y DESARROLLO",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GPTE",
+        "nombre_programa": "ESPECIALIZACIÓN EN GESTIÓN Y PLANIFICACIÓN TERRITORIAL",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GPTR",
+        "nombre_programa": "ESPECIALIZACIÓN EN GESTIÓN Y PLANIFICACIÓN TERRITORIAL",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "D-ANTR",
+        "nombre_programa": "DOCTORADO EN ANTROPOLOGÍA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-EIDE",
+        "nombre_programa": "DOCTORADO EN ESTUDIOS INTERDISCIPLINARIOS SOBRE EL DESARROLLO",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-EIND",
+        "nombre_programa": "DOCTORADO EN ESTUDIOS INTERDISCIPLINARIOS SOBRE EL DESARROLLO",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-CPOL",
+        "nombre_programa": "DOCTORADO EN CIENCIA POLÍTICA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-FILO",
+        "nombre_programa": "DOCTORADO EN FILOSOFÍA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-HIST",
+        "nombre_programa": "DOCTORADO EN HISTORIA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-PSIC",
+        "nombre_programa": "DOCTORADO EN PSICOLOGÍA",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "Especialización",
+    "nombre_facultad": "DECANATURA DE ESTUDIANTES",
+    "programas": [
+      {
+        "cod_programa": "EDIR",
+        "nombre_programa": "ESTUDIOS DIRIGIDOS",
+        "nivel_academico": "Pregrado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "DE",
+    "nombre_facultad": "DERECHO",
+    "programas": [
+      {
+        "cod_programa": "DERE",
+        "nombre_programa": "DERECHO",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-DGGJ",
+        "nombre_programa": "MAESTRÍA EN DERECHO, GOBIERNO Y GESTIÓN DE LA JUSTICIA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DTSD",
+        "nombre_programa": "MAESTRÍA EN DERECHO, TECNOLOGÍA Y SOCIEDAD DIGITAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DPUB",
+        "nombre_programa": "MAESTRÍA EN DERECHO PÚBLICO PARA LA GESTIÓN ADMINISTRATIVA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DERE",
+        "nombre_programa": "MAESTRÍA EN DERECHO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DEIN",
+        "nombre_programa": "MAESTRÍA EN DERECHO INTERNACIONAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DERP",
+        "nombre_programa": "MAESTRÍA EN DERECHO PENAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DEPR",
+        "nombre_programa": "MAESTRÍA EN DERECHO PRIVADO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MTRI",
+        "nombre_programa": "MAESTRÍA EN TRIBUTACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MTRM",
+        "nombre_programa": "MAESTRÍA EN TRIBUTACION-EAFIT",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DEPI",
+        "nombre_programa": "MAESTRÍA EN PROPIEDAD INTELECTUAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-DENI",
+        "nombre_programa": "ESPECIALIZACIÓN EN DERECHO DE LOS NEGOCIOS INTERNACIONALES",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-DMIN",
+        "nombre_programa": "ESPECIALIZACIÓN EN DERECHO MINERO-ENERGÉTICO Y DESARROLLO SOSTENIBLE",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-DPUB",
+        "nombre_programa": "ESPECIALIZACIÓN EN DERECHO PÚBLICO PARA LA GESTIÓN ADMINISTRATIVA - SEDE CARIBE, CARTAGENA DE INDIAS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-APCL",
+        "nombre_programa": "ESPECIALIZACIÓN EN ADUANAS, PUERTOS, CAMBIOS Y LOGÍSTICA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GPUB",
+        "nombre_programa": "ESPECIALIZACIÓN EN GESTIÓN PÚBLICA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-DCOM",
+        "nombre_programa": "ESPECIALIZACIÓN EN DERECHO COMERCIAL",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-DEMP",
+        "nombre_programa": "ESPECIALIZACIÓN EN DERECHO DE LA EMPRESA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-LEGI",
+        "nombre_programa": "ESPECIALIZACIÓN EN LEGISLACIÓN FINANCIERA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-DPEN",
+        "nombre_programa": "ESPECIALIZACIÓN EN DERECHO PENAL",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-TRIB",
+        "nombre_programa": "ESPECIALIZACIÓN EN TRIBUTACIÓN",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "D-DERE",
+        "nombre_programa": "DOCTORADO EN DERECHO",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "EC",
+    "nombre_facultad": "ECONOMÍA",
+    "programas": [
+      {
+        "cod_programa": "ECON",
+        "nombre_programa": "ECONOMÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-ECON",
+        "nombre_programa": "MAESTRÍA EN ECONOMIA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ECAP",
+        "nombre_programa": "MAESTRÍA EN ECONOMIA APLICADA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-ECME",
+        "nombre_programa": "ESPECIALIZACIÓN EN ECONOMÍA-MEDELLIN",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-ECON",
+        "nombre_programa": "ESPECIALIZACIÓN EN ECONOMÍA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-EVSP",
+        "nombre_programa": "ESPECIALIZACIÓN EN EVALUACIÓN SOCIAL DE PROYECTOS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "D-ECON",
+        "nombre_programa": "DOCTORADO EN ECONOMÍA",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "ED",
+    "nombre_facultad": "EDUCACIÓN",
+    "programas": [
+      {
+        "cod_programa": "LART",
+        "nombre_programa": "LICENCIATURA EN ARTES",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LBIO",
+        "nombre_programa": "LICENCIATURA EN BIOLOGÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LEIN",
+        "nombre_programa": "LICENCIATURA EN EDUCACIÓN INFANTIL",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LFLS",
+        "nombre_programa": "LICENCIATURA EN FILOSOFÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LFIS",
+        "nombre_programa": "LICENCIATURA EN FÍSICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LHIS",
+        "nombre_programa": "LICENCIATURA EN HISTORIA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LMAT",
+        "nombre_programa": "LICENCIATURA EN MATEMÁTICAS",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LQUI",
+        "nombre_programa": "LICENCIATURA EN QUÍMICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "LEFI",
+        "nombre_programa": "LICENCIATURA ESPAÑOL Y FILOLOGÍA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-EMAT",
+        "nombre_programa": "MAESTRÍA EN EDUCACIÓN MATEMÁTICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-EDUC",
+        "nombre_programa": "MAESTRÍA EN EDUCACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-EDUI",
+        "nombre_programa": "MAESTRÍA EN EDUCACIÓN - INVESTIGACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-EPEM",
+        "nombre_programa": "ESPECIALIZACIÓN EN EDUCACIÓN MATEMÁTICA PARA PRIMARIA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-EPAD",
+        "nombre_programa": "ESPECIALIZACIÓN EN EDUCACIÓN MATEMÁTICA PARA PROFESORES DE SECUNDARIA Y MEDIA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-CPED",
+        "nombre_programa": "ESPECIALIZACIÓN EN CURRÍCULO Y PEDAGOGÍA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GEDU",
+        "nombre_programa": "ESPECIALIZACIÓN EN GESTIÓN DE INSTITUCIONES EDUCATIVAS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-LEDU",
+        "nombre_programa": "ESPECIALIZACIÓN EN LIDERAZGO Y POLÍTICA EDUCATIVA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-LEDV",
+        "nombre_programa": "ESPECIALIZACIÓN EN LIDERAZGO Y POLÍTICA EDUCATIVA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "D-EDUC",
+        "nombre_programa": "DOCTORADO EN EDUCACIÓN",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "EG",
+    "nombre_facultad": "ESC DE GOBIERNO ALBERTO LLERAS",
+    "programas": [
+      {
+        "cod_programa": "GOBI",
+        "nombre_programa": "GOBIERNO Y ASUNTOS PÚBLICOS",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-GPUB",
+        "nombre_programa": "MAESTRÍA EN GESTIÓN PÚBLICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-PPUB",
+        "nombre_programa": "MAESTRÍA EN POLITICAS PUBLICAS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-SPUB",
+        "nombre_programa": "MAESTRÍA EN SALUD PÚBLICA",
+        "nivel_academico": "Maestría"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "IN",
+    "nombre_facultad": "INGENIERÍA",
+    "programas": [
+      {
+        "cod_programa": "IELE",
+        "nombre_programa": "INGENIERÍA ELÉCTRICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "IBIO",
+        "nombre_programa": "INGENIERÍA BIOMÉDICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "IAMB",
+        "nombre_programa": "INGENIERÍA AMBIENTAL",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "ICIV",
+        "nombre_programa": "INGENIERÍA CIVIL",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "ISIS",
+        "nombre_programa": "INGENIERÍA DE SISTEMAS Y COMPUTACIÓN",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "IELC",
+        "nombre_programa": "INGENIERÍA ELECTRÓNICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "IIND",
+        "nombre_programa": "INGENIERÍA INDUSTRIAL",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "IMEC",
+        "nombre_programa": "INGENIERÍA MECÁNICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "IQUI",
+        "nombre_programa": "INGENIERÍA QUÍMICA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-IELE",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA ELÉCTRICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IBIO",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA BIOMÉDICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ICIV",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA CIVIL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IAMB",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA AMBIENTAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MAIT",
+        "nombre_programa": "MAESTRÍA EN GERENCIA DE TECNOLOGÍAS DE INFORMACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MAIA",
+        "nombre_programa": "MAESTRÍA EN INTELIGENCIA ARTIFICIAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MINE",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA DE INFORMACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MSIN",
+        "nombre_programa": "MAESTRÍA EN SEGURIDAD DE LA INFORMACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MISO",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA DE SOFTWARE",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MISW",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA DE SOFTWARE",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MBIT",
+        "nombre_programa": "MAESTRÍA EN TECNOLOGÍAS DE INFORMACIÓN PARA EL NEGOCIO",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ARTI",
+        "nombre_programa": "MAESTRÍA EN ARQUITECTURAS DE TECNOLOGÍAS DE INFORMACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-ISIS",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA DE SISTEMAS Y COMPUTACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IELC",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA ELECTRÓNICA Y DE COMPUTADORES",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IATD",
+        "nombre_programa": "MAESTRÍA EN INTELIGENCIA ANALÍTICA PARA TOMA DE DECISIONES",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MIID",
+        "nombre_programa": "MAESTRÍA EN INTELIGENCIA ANALÍTICA DE DATOS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IIND",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA INDUSTRIAL",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MAGI",
+        "nombre_programa": "MAESTRÍA EN GERENCIA DE LA INGENIERÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MPET",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA DE PETRÓLEOS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IMEC",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA MECÁNICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-DPRO",
+        "nombre_programa": "MAESTRÍA EN DISEÑO DE PROCESOS Y PRODUCTOS",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-IQUM",
+        "nombre_programa": "MAESTRÍA EN INGENIERÍA QUÍMICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-MGIT",
+        "nombre_programa": "MAESTRÍA EN GESTIÓN DE LA INNOVACIÓN TECNOLÓGICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-AUTO",
+        "nombre_programa": "ESPECIALIZACIÓN AUTOMATIZACIÓN DE PROCESOS INDUSTRIALES",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-STRA",
+        "nombre_programa": "ESPECIALIZACIÓN EN SISTEMAS DE TRANSMISIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-MAMB",
+        "nombre_programa": "ESPECIALIZACIÓN DE MANEJO INTEGRADO DEL MEDIO AMBIENTE",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-RHID",
+        "nombre_programa": "ESPECIALIZACIÓN EN INGENIERÍA DE SISTEMAS HÍDRICOS URBANOS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-CSOF",
+        "nombre_programa": "ESPECIALIZACIÓN EN CONSTRUCCIÓN DE SOFTWARE",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-GAME",
+        "nombre_programa": "ESPECIALIZACIÓN EN DESARROLLO DE VIDEOJUEGOS",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-ESIO",
+        "nombre_programa": "ESPECIALIZACIÓN EN SISTEMAS DE INFORMACIÓN EN LA ORGANIZACIÓN",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "D-INGE",
+        "nombre_programa": "DOCTORADO EN INGENIERÍA",
+        "nivel_academico": "Doctorado"
+      },
+      {
+        "cod_programa": "D-DGIT",
+        "nombre_programa": "DOCTORADO EN GESTIÓN DE LA INNOVACIÓN TECNOLÓGICA",
+        "nivel_academico": "Doctorado"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "ME",
+    "nombre_facultad": "MEDICINA",
+    "programas": [
+      {
+        "cod_programa": "MEDI",
+        "nombre_programa": "MEDICINA",
+        "nivel_academico": "Pregrado"
+      },
+      {
+        "cod_programa": "M-BIOE",
+        "nombre_programa": "MAESTRÍA EN BIOÉTICA Y ÉTICA DE LA INVESTIGACIÓN",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-EPID",
+        "nombre_programa": "MAESTRÍA EN EPIDEMIOLOGÍA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "M-SPUS",
+        "nombre_programa": "MAESTRÍA EN SALUD PÚBLICA",
+        "nivel_academico": "Maestría"
+      },
+      {
+        "cod_programa": "E-GINE",
+        "nombre_programa": "ESPECIALIZACIÓN EN GINECOLOGÍA Y OBSTETRICIA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-EPID",
+        "nombre_programa": "ESPECIALIZACIÓN EN EPIDEMIOLOGÍA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-CIRG",
+        "nombre_programa": "ESPECIALIZACIÓN EN CIRUGÍA GENERAL",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-PATO",
+        "nombre_programa": "ESPECIALIZACIÓN EN PATOLOGÍA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-PEDI",
+        "nombre_programa": "ESPECIALIZACIÓN EN PEDIATRÍA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-PSIQ",
+        "nombre_programa": "ESPECIALIZACIÓN EN PSIQUIATRÍA",
+        "nivel_academico": "Especialización"
+      },
+      {
+        "cod_programa": "E-UROL",
+        "nombre_programa": "ESPECIALIZACIÓN EN UROLOGÍA",
+        "nivel_academico": "Especialización"
+      }
+    ]
+  },
+  {
+    "cod_facultad": "CD",
+    "nombre_facultad": "CIDER",
+    "programas": [
+      {
+        "cod_programa": "E-ORSD",
+        "nombre_programa": "ESPECIALIZACIÓN EN ORGANIZACIONES, RESPONSABILIDAD SOCIAL Y DESARROLLO",
+        "nivel_academico": "Especialización"
+      }
+    ]
+  }
+]

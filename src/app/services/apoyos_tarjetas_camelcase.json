@@ -1,0 +1,504 @@
+[
+  {
+    "apoyoid": "Pre1",
+    "tipoDeApoyo": "Beca con compromiso",
+    "nombreDelApoyo": "Quiero Estudiar",
+    "dirigidoA": "Dirigido a estudiantes con los mejores desempeños academicos (Saber 11 con puntaje superior a 370, Notas y Ranking sobresalientes) y se priorizará a estudiantes con necesidad económica.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre del 25% hasta el 95% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/quiero-estudiar"
+  },
+  {
+    "apoyoid": "Pre2",
+    "tipoDeApoyo": "Beca con compromiso",
+    "nombreDelApoyo": "Pa'lante Pacífico",
+    "dirigidoA": "Dirigido a estudiantes graduados de colegios de los Municipios del Litoral Pacífico Colombiano con edades entre los 16 y 21 años.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre 98% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 43 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/palante-pacifico"
+  },
+  {
+    "apoyoid": "Pre3",
+    "tipoDeApoyo": "Beca con compromiso",
+    "nombreDelApoyo": "Quiero Enseñar",
+    "dirigidoA": "Dirigido a estudiantes admitidos a un programa de Licenciatura de la Universidad.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre 95% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 9 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/quiero-ensenar"
+  },
+  {
+    "apoyoid": "Pre4",
+    "tipoDeApoyo": "Beca con compromiso",
+    "nombreDelApoyo": "Fondo Dora Rothlisberger",
+    "dirigidoA": "Dirigido a estudiantes de la Facultad de Ciencias Sociales de quinto (5to) a octavo (8vo) semestre y con un promedio acumulado mínimo de 4.2. ",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre 95% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 7 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-dora-rothlisberger"
+  },
+  {
+    "apoyoid": "Pre5",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Decidí Enseñar",
+    "dirigidoA": "Dirigido a estudiantes admitidos a un programa de Licenciatura de la Universidad.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre 66% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 9 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/decidi-ensenar"
+  },
+  {
+    "apoyoid": "Pre6",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Preferente",
+    "dirigidoA": "Dirigido a estudiantes admitidos con Saber 11 con puntaje superior a 320 o excelentes notas del colegio.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre del 5% hasta el 50% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 20 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-preferente"
+  },
+  {
+    "apoyoid": "Pre7",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Ciro Angarita Barón",
+    "dirigidoA": "Dirigido a estudiantes antiguos del programa de Derecho.",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre un pocentaje del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para el programa Derecho",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-ciro-angarita"
+  },
+  {
+    "apoyoid": "Pre8",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Vamos Pa'lante",
+    "dirigidoA": "Dirigido a estudiantes de pregrado de cuarto (4to) semestre en adelante, con excelencia académica y necesidad económica.",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre 95% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-vamos-palante"
+  },
+  {
+    "apoyoid": "Pre9",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Yerly",
+    "dirigidoA": "Dirigido a estudiantes del programa de Matemáticas",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre un pocentaje del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para el programa Matemáticas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-henry-yerly"
+  },
+  {
+    "apoyoid": "Pre10",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Fallecimiento Responsable Económico",
+    "dirigidoA": "Dirigido a estudiantes antiguos pregrado cuyo reponsable económico fallece mientras el estudiante se encuentra matriculado.",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre 70% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-fallecimiento-responsable-economico"
+  },
+  {
+    "apoyoid": "Pre11",
+    "tipoDeApoyo": "Descuento",
+    "nombreDelApoyo": "por Hermanos",
+    "dirigidoA": "Dirigido a estudiantes de pregrado. Ambos hermanos deben estar cursando matrícula completa",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre 15% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/descuento-por-hermanos"
+  },
+  {
+    "apoyoid": "Pre12",
+    "tipoDeApoyo": "Sostenimiento",
+    "nombreDelApoyo": "Fopre",
+    "dirigidoA": "Dirigido a estudiantes beneficiarios de becas internas. Disponible para estudiantes de Pregrado",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre transporte, alimentacion, fotocopias o materiales",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fopre"
+  },
+  {
+    "apoyoid": "Pre13",
+    "tipoDeApoyo": "Préstamo Condonable",
+    "nombreDelApoyo": "Fondo Cecilia",
+    "dirigidoA": "Dirigido a estudiantes de pregrado de cuarto (4to) semestre en adelante con promedio acumulado de mínimo 4.",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre 50% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 31 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-cecilia"
+  },
+  {
+    "apoyoid": "Pre14",
+    "tipoDeApoyo": "Préstamo Condonable",
+    "nombreDelApoyo": "Fondo Guillermo Wiedemann",
+    "dirigidoA": "Dirigido a estudiantes del programa de Arte de cuarto (4to) semestre en adelante con promedio acumulado de mínimo de 4.",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre un pocentaje del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para el programa Arte",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-guillermo-wiedemann"
+  },
+  {
+    "apoyoid": "Pre15",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "de Emergencia",
+    "dirigidoA": "Dirigido a estudiantes que requieran financiación para compra de algún artículo o gasto indispensable para su adecuado desempeño académico.",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre hasta 2 SMLMV",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/credito-de-emergencia"
+  },
+  {
+    "apoyoid": "Pre16",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "Progresandes - 75% Corto Plazo",
+    "dirigidoA": "Dirigido a todos los estudiantes de pregrado",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 75% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/progresandes-cp-75"
+  },
+  {
+    "apoyoid": "Pre17",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "Fondo Miguel Urrutia",
+    "dirigidoA": "Dirigido a estudiantes admitidos al programa de Economía",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre del 30% hasta el 50% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para el programa Economía",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-miguel-urrutia"
+  },
+  {
+    "apoyoid": "Pre18",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "Entidades financieras",
+    "dirigidoA": "Dirigido a todos los estudiantes de pregrado - Consultar las Entidades Financieras con las cuales la Universidad tiene convenio",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para 44 programas",
+    "nivelAcadémico": [
+      "Pregrado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/entidades-financieras"
+  },
+  {
+    "apoyoid": "Pos1",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Liminal Law Uniandes",
+    "dirigidoA": "Dirigida a estudiantes de la Especialización en Tributación",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para la Especialización en Tributación",
+    "nivelAcadémico": [
+      "Especialización"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-liminal-law-uniandes"
+  },
+  {
+    "apoyoid": "Pos2",
+    "tipoDeApoyo": "Descuento",
+    "nombreDelApoyo": "para Egresados",
+    "dirigidoA": "Dirigido a estudiantes admitidos a un posgrado y graduados de la Universidad de los Andes",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre 5% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 159 programas",
+    "nivelAcadémico": [
+      "Maestría",
+      "Especialización",
+      "Doctorado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/descuento-para-egresados"
+  },
+  {
+    "apoyoid": "Pos3",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "s de Excelencia - Posgrado",
+    "dirigidoA": "Dirigido a estudiantes de los programas de las Facultades de Ciencias Sociales, Arquitectura y Diseño, y Artes y Humanidades, que hayan sido preseleccionados por su respectiva Facultad.",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 32 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-de-excelencia-posgrado"
+  },
+  {
+    "apoyoid": "Pos4",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Gretel Wernher",
+    "dirigidoA": "Dirigido a estudiantes admitidos al programa de Maestría en Estudios Clásicos, que hayan sido preseleccionados por su respectiva Facultad.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para la Maestría en Estudios Clasicos",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-gretel-wernher"
+  },
+  {
+    "apoyoid": "Pos5",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Travesías - Regionales",
+    "dirigidoA": "Dirigido a profesores, profesoras, profesionales recién egresados de Universidades de las regiones de Colombia.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre hasta el 90% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 139 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-travesias-regionales"
+  },
+  {
+    "apoyoid": "Pos7",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "CIFE-EGOB",
+    "dirigidoA": "Dirigido a estudiantes de los programas de maestría de la Escuela de Gobierno.",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 30% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 3 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-cife-egob"
+  },
+  {
+    "apoyoid": "Pos8",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Fondo Vamos Juntos",
+    "dirigidoA": "Dirigido a estudiantes admitidos a programas presenciales de posgrado en ciencias, tecnología, ingenierías, economía, matemáticas y educación matemática. Se priorizará a mujeres provenientes de estratos 1, 2 y 3.",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 95% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 32 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-vamos-juntos"
+  },
+  {
+    "apoyoid": "Pos9",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "s de Excelencia - Eduardo Álvarez Correa",
+    "dirigidoA": "Dirigido a estudiantes de un programa de maestría o doctorado de la Facultad de Derecho.",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 11 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-de-excelencia-eduardo-alvarez-correa"
+  },
+  {
+    "apoyoid": "Pos10",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "s Coursera para Maestrías Virtuales",
+    "dirigidoA": "Dirigido a estudiantes admitidos en los programas de Maestría Virtuales de la Facultad de Ingeniería.",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre 15% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 6 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/apoyo-financiero-maestrias-virtuales-alianza-coursera"
+  },
+  {
+    "apoyoid": "Pos11",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "FEGVL Maestrías Virtuales",
+    "dirigidoA": "Dirigido a estudiantes del MBA Online y de la Maestría en Regeneración y Desarrollo Sostenible de la Facultad de Administración",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre hasta el 30% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para 2 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-fegvl-maestrias-virtuales"
+  },
+  {
+    "apoyoid": "Pos12",
+    "tipoDeApoyo": "Préstamo Condonable",
+    "nombreDelApoyo": "(CEC) Maestría En Bioética",
+    "dirigidoA": "Dirigido a estudiantes de la Maestría en Bioética y Ética de la Investigación",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para la Maestría en Bioética y Etica de la Investigación",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/credito-condonable-cec-maestria-en-bioetica"
+  },
+  {
+    "apoyoid": "Pos13",
+    "tipoDeApoyo": "Préstamo Condonable",
+    "nombreDelApoyo": "Fondo Nexys",
+    "dirigidoA": "Dirigido a estudiantes admitidos a la Maestría en Ingeniería Biomédica",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre hasta el 95% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para la Maestría en Ingeniería Biomédica",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-nexys"
+  },
+  {
+    "apoyoid": "Pos14",
+    "tipoDeApoyo": "Préstamo Condonable",
+    "nombreDelApoyo": "Francisco Pizano de Brigard",
+    "dirigidoA": "Dirigido a estudiantes de maestría o que estén en proceso de admisión, preseleccionados previamente por el Centro de Español o el Ciclo Básico Uniandino",
+    "tipoDeEstudiante": "Estudiante Antiguo",
+    "cubre": "Cubre del 50% hasta el 80% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 86 programas",
+    "nivelAcadémico": [
+      "Maestría"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-francisco-pizano-de-brigard"
+  },
+  {
+    "apoyoid": "Pos15",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Tradicional Posgrados de Medicina FEGV",
+    "dirigidoA": "Dirigido a aspirantes a posgrados clínicos médico – quirúrgicos básicos de la Facultad de Medicina",
+    "tipoDeEstudiante": "Estudiante Nuevo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 10 programas",
+    "nivelAcadémico": [
+      "Maestría",
+      "Especialización"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/beca-tradicional-posgrados-de-medicina-fegvl"
+  },
+  {
+    "apoyoid": "Pos16",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "s Posgrados - Facultad de Medicina",
+    "dirigidoA": "Dirigido a estudiantes de los posgrados medico quirúrgicos de la Facultad de Medicina",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 20% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 10 programas",
+    "nivelAcadémico": [
+      "Maestría",
+      "Especialización"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/credito-posgrado-facultad-de-medicina"
+  },
+  {
+    "apoyoid": "Pos17",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "s FEGVL CP y MP",
+    "dirigidoA": "Dirigido a todos los estudiantes de posgrado (Maestría y Especialización).",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 80% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para 135 programas",
+    "nivelAcadémico": [
+      "Maestría",
+      "Especialización"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/prestamo-fegvl-cp-y-mp"
+  },
+  {
+    "apoyoid": "Pos18",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "Entidades financieras",
+    "dirigidoA": "Dirigido a todos los estudiantes de posgrado - Consultar las Entidades Financieras con las cuales la Universidad tiene convenio",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula ",
+    "aplicaParaXProgramas": "Aplica para 141 programas",
+    "nivelAcadémico": [
+      "Maestría",
+      "Especialización"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/entidades-financieras"
+  },
+  {
+    "apoyoid": "Pos19",
+    "tipoDeApoyo": "Préstamo",
+    "nombreDelApoyo": "Progresandes Posgrado Corto Plazo",
+    "dirigidoA": "Dirigido a todos los estudiantes de posgrado",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 80% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 159 programas",
+    "nivelAcadémico": [
+      "Maestría",
+      "Especialización",
+      "Doctorado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/progresandes-posgrado-cp"
+  },
+  {
+    "apoyoid": "Pos20",
+    "tipoDeApoyo": "Beca",
+    "nombreDelApoyo": "Doctorado - Fondo Educativo Gabriel Vegalara - FEGVL",
+    "dirigidoA": "Dirigido a estudiantes activos del Doctorado en Administración.",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 100% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para el Doctorado en Administración",
+    "nivelAcadémico": [
+      "Doctorado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/fondo-educativo-gabriel-vegalara-doctorado"
+  },
+  {
+    "apoyoid": "Pos21",
+    "tipoDeApoyo": "Préstamo Condonable",
+    "nombreDelApoyo": "Apoyo Impacto País",
+    "dirigidoA": "Dirigido a estudiantes de cualquier programa de Doctorado de la Universidad.",
+    "tipoDeEstudiante": "Estudiante Nuevo y Antiguo",
+    "cubre": "Cubre hasta el 90% del valor de la matrícula",
+    "aplicaParaXProgramas": "Aplica para 18 programas",
+    "nivelAcadémico": [
+      "Doctorado"
+    ],
+    "url": "https://apoyofinanciero.uniandes.edu.co/apoyo-impacto-pais"
+  }
+]
