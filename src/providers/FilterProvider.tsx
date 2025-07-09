@@ -7,7 +7,6 @@ import filterSupports from "@/app/utils/filtersSupports";
 import countFilteredFieldValues, { Result } from "@/app/utils/countFilteredFieldValues";
 import { FilterType, SupportType } from "./types/FilterProviderTypes";
 import { fetchSupports } from "@/app/services/fetchSupports";
-import { useLogin } from "@/contexts/loginContext";
 
 const INITIAL_FILTER: FilterType = {
   programas: undefined,
